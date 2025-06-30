@@ -1,0 +1,4 @@
+*.pyc
+__pycache__/
+imoveis_goiania.xlsx
+.env
